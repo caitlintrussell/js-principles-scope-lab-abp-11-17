@@ -13,7 +13,7 @@ const leastFavoriteCustomer = 'jessica';
 function changeLeastFavoriteCustomer(){
   leastFavoriteCustomer = 'bob';
 }
-const favoriteCustomer = 'allan';
+let favoriteCustomer = 'allan';
 function attemptTwoFavoriteCustomers(){
   favoriteCustomer = 'sarah';
 }
